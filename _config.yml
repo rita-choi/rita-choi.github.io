@@ -9,7 +9,7 @@ blog:
   description                  : 주니어 개발자의 기술 블로그
 
 # Layout configuration
-  logo_path                  : "assets/img/beer_logo.svg" # path to logo file
+  logo_path                  : "assets/img/beer-logo.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
