@@ -5,8 +5,8 @@ url                          : "https://rita-choi.github.io" # the base hostname
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : 개발자는 (뚠뚠) 오늘도 (뚠뚠) 일을 하네 (뚠뚠)
-  description                  : 주니어 개발자의 기술 블로그
+  title                      : 기술하는 개발자
+  description                : 주니어 개발자의 기술 블로그
 
 # Layout configuration
   logo_path                  : "assets/img/beer-logo.svg" # path to logo file
@@ -48,6 +48,7 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 
 # Permalinks
 permalink                    : posts/:slug

@@ -1,4 +1,7 @@
 ---
+layout: blog-by-tag
+title: Github
 slug: github
-name: Git Hub
+name: Github
 ---
+
